@@ -26,3 +26,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+# Demo Video
+
+
+https://github.com/23kartik/Zocket_Frontend_Assignment/assets/84660976/cdd045f0-fcf8-41b3-baef-6ec1e80b5359
+
+
+

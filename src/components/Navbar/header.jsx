@@ -6,11 +6,11 @@ export default function Navbar() {
       <div className="flex items-center">
         <img className="px-4" src="/assets/buyplan.svg" alt="buyplan" />
         <img className="px-4" src="/assets/notification.svg" alt="notification" />
-        <div className="flex items-center"> {/* Container for name icon and text */}
+        <div className="flex items-center"> 
           <img className="px-4" src="/assets/name.svg" alt="name" />
           <div className="flex items-center">
             Kartike Cake Shop
-            <span className="ml-1 text-xs">&#9660;</span> {/* Down arrow HTML entity */}
+            <span className="ml-1 text-xs">&#9660;</span> 
           </div>
         </div>
         <img className="px-4" src="/assets/translate.svg" alt="translate" />

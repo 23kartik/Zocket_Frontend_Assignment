@@ -3,7 +3,7 @@ import { ReactComponent as Campaignsettings } from "../utils/icons/campaignSetti
 import { ReactComponent as Bag } from "../utils/icons/bag.svg";
 import { ReactComponent as Lamp } from "../utils/icons/lamp-charge.svg";
 import { ReactComponent as Tickcircle } from "../utils/icons/tick-circle.svg";
-import {Step1,Step2,Step3,Step4} from "./step/index";
+import { Step1,Step2,Step3,Step4 } from "./step/index.js";
 import React, { useState } from "react";
 const AddCampaign = ({campaignSteps,setCampaignSteps}) => {
   const [page, setPage] = useState(0);

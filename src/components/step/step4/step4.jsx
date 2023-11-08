@@ -31,7 +31,7 @@ function Step4({campaignSteps,setCampaignSteps}) {
           </div>
         </div>
       </Card>
-      <Button onClick={()=>setCampaignSteps(!campaignSteps)} className="mt-6 bg-[#0F6EFF] h-[50px] w-60  left-[1185px] relative text-white-100 text-[16px] font-medium leading-6 hover:bg-white-100">Start Campaign</Button>
+      <Button onClick={()=>setCampaignSteps(!campaignSteps)} className="mt-6 bg-[#0F6EFF] h-[50px] w-60  left-[1184px] relative text-white-100 text-[16px] font-medium leading-6 hover:bg-white-100">Start Campaign</Button>
       
     </>
   )
